@@ -1,0 +1,7 @@
+package QuickSort;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+class QuickSortTest {
+
+}
